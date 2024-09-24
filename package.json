@@ -1,0 +1,15 @@
+{
+  "name": "teht.1.sanakirja",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Jessica Hovi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "description": ""
+}
